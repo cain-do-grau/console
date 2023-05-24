@@ -1,0 +1,18 @@
+var frase= "n é meu primeiro projeto";
+console.log(frase);
+var firstName= "Caio";
+var lastName= "Barreto";
+var contact= firstName.concat (lastName);
+console.log(contact);
+var a= "5";
+var b= "10";
+var c= "2";
+var d= "0";
+var c1= b * c - a ;
+console.log(c1);
+var c2= b - a ;
+console.log(c2);
+var c3= a * b ;
+console.log(c3);
+var c4= c * c - c ;
+console.log(c4);
